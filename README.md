@@ -1,5 +1,6 @@
 ### Folder Structure
 
+- final_project_report.pdf: Our final report
 - preprocess: Data cleaning and preprocessing notebook(s)
 - baseline: Notebook for random text perturbation attack against LSTM model
 - white-box: White-box attacks, defenses and result analysis for MLP, ALBERT, etc. notebooks
